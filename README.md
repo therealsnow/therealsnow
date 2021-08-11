@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @therealsnow aka snowman
-- 👀 I’m interested in open sourcing of all things, ethical hacking, 3d printing, 
+- 👀 I’m interested in open source, ethical hacking, 3d printing
 - 🌱 I’m currently learning micropython and circuitpython
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me snowman@snowman.dev
